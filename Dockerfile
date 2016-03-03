@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/jboss-eap6/eap-openshift
+FROM registry.access.redhat.com/jboss-eap-6/eap-openshift
 MAINTAINER lawnjarae
 
 # COPY deployments/ROOT.war $JBOSS_HOME/standalone/deployments/ROOT.war
